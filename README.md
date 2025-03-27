@@ -1,54 +1,59 @@
-<h1>Hi ✋, I'm Tejesh! <br/><a href="https://github.com/Tejesh916k">Programmer</a>, <a href="https://www.linkedin.com/in/kesanakurthy-tejesh-752410293/">iam a passionate, full stack web developer</a>, </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+# Hi there! 👋 I'm Kesanakurthy Tejesh Sai Manikanta  
 
-<h2>📺 Popular YouTube Videos</h2>
+## 🚀 About Me
+🎓 **B.Tech in Computer Science & Engineering** (2022 - 2026)  
+💻 **Full Stack Web Developer | MERN Stack Enthusiast**  
+🏆 **180+ LeetCode Problems Solved**  
+🏅 **4⭐ in C & SQL on HackerRank**  
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+Passionate about **web technologies**, **problem-solving**, and building **scalable applications**.  
+Actively exploring **new frameworks and libraries** to enhance my development skills.
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🔨 Tech Stack
+- **Languages:** C, Java, Python, JavaScript  
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js, Flask  
+- **Databases:** MySQL, MongoDB  
+- **Tools & Platforms:** Git, GitHub, Firebase, REST APIs  
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Projects
 
-Here are some ideas to get you started:
+### 📺 [Netflix Clone](https://github.com/Tejesh916k/netflix-clone)  
+- Developed a **Netflix UI clone** using React.js and Firebase.  
+- Implemented **Firebase authentication** for user sign-ups and login.  
+- Used **media queries** for a responsive UI across devices.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 [Library Management System](https://github.com/Tejesh916k/Library-management-system)  
+- Built a **web-based system** using Flask & MySQL for book borrowing.  
+- Designed **RESTful APIs** for smooth frontend-backend communication.  
+- Implemented **user authentication** and optimized SQL queries for better performance.  
+
+---
+
+## 🏆 Achievements
+- **180+ Problems Solved** on [LeetCode](https://leetcode.com/u/Tejesh0804_k/)  
+- **4⭐ in C & SQL** on [HackerRank](https://www.hackerrank.com/profile/tejeshkesanakur1)  
+- **JavaScript Essentials** Certification - [Cisco](https://www.credly.com/badges/f9f1454a-6135-41d8-b363-e637a4bf0e3d/public_url)  
+- **Python Basics for Data Science** - [EdX](https://courses.edx.org/certificates/5a237b512908479ea3068ce820c4b4be)  
+- **Introduction to IoT** - [Cisco](https://www.credly.com/badges/3f30cc7f-19f3-42bb-b846-a347375391fd/public_url)  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejesh916k&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejesh916k&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Tejesh916k&theme=radical)  
+
+---
+
+## 🌎 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Tejesh916k)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:tejeshkesanakurthy@gmail.com)  
+
