@@ -32,8 +32,14 @@ Actively exploring **new frameworks and libraries** to enhance my development sk
 ### 📚 [Library Management System](https://github.com/Tejesh916k/Library-management-system)  
 - Built a **web-based system** using Flask & MySQL for book borrowing.  
 - Designed **RESTful APIs** for smooth frontend-backend communication.  
-- Implemented **user authentication** and optimized SQL queries for better performance.  
+- Implemented **user authentication** and optimized SQL queries for better performance.
 
+### 📰 [ AI News Summarizer & Sentiment Analyzer](https://github.com/Tejesh916k/News-Summarizer)  
+- `nltk` – Natural Language Processing toolkit 🌐  
+- `TextBlob` – Sentiment analysis 🤖  
+- `newspaper3k` – News scraping & parsing 📰  
+- `Tkinter` – GUI development 🎨  
+- `lxml_html_clean` – HTML cleaning 🏗️ 
 ---
 
 ## 🏆 Achievements
