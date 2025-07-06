@@ -14,11 +14,11 @@ Actively exploring **new frameworks and libraries** to enhance my development sk
 ---
 
 ## 🔨 Tech Stack
-- **Languages:** C, Java, Python, JavaScript  
+- **Languages:** C, Java, Python, JavaScript,php  
 - **Frontend:** React.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js, Flask  
-- **Databases:** MySQL, MongoDB  
-- **Tools & Platforms:** Git, GitHub, Firebase, REST APIs  
+- **Databases:** MySQL, MongoDB,firebase  
+- **Tools & Platforms:** Git, GitHub, REST APIs  
 
 ---
 
