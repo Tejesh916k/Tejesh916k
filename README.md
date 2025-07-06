@@ -5,7 +5,7 @@
 ## 🚀 About Me
 🎓 **B.Tech in Computer Science & Engineering** (2022 - 2026)  
 💻 **Full Stack Web Developer | MERN Stack Enthusiast**  
-🏆 **180+ LeetCode Problems Solved**  
+🏆 **200+ LeetCode Problems Solved**  
 🏅 **4⭐ in C & SQL on HackerRank**  
 
 Passionate about **web technologies**, **problem-solving**, and building **scalable applications**.  
