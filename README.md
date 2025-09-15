@@ -43,7 +43,7 @@ Actively exploring **new frameworks and libraries** to enhance my development sk
 ---
 
 ## 🏆 Achievements
-- **350+ Problems Solved** on [LeetCode](https://leetcode.com/u/Tejesh0804_k/)  
+- **400+ Problems Solved** on [LeetCode](https://leetcode.com/u/Tejesh0804_k/)  
 - **4⭐ in C & SQL** on [HackerRank](https://www.hackerrank.com/profile/tejeshkesanakur1)  
 - **JavaScript Essentials** Certification - [Cisco](https://www.credly.com/badges/f9f1454a-6135-41d8-b363-e637a4bf0e3d/public_url)  
 - **Python Basics for Data Science** - [EdX](https://courses.edx.org/certificates/5a237b512908479ea3068ce820c4b4be)  
